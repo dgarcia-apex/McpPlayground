@@ -1,0 +1,6 @@
+@Story.Mcp.Server_HostAddress = http://localhost:5001
+
+GET {{Story.Mcp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

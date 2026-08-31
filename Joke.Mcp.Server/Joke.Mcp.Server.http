@@ -1,0 +1,6 @@
+@Joke.Mcp.Server_HostAddress = http://localhost:5182
+
+GET {{Joke.Mcp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@BibleStudy.Mcp.Server_HostAddress = http://localhost:5184
+
+GET {{BibleStudy.Mcp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

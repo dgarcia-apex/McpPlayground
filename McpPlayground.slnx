@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="BibleStudy.Mcp.Server/BibleStudy.Mcp.Server.csproj" />
+  <Project Path="Joke.Mcp.Server/Joke.Mcp.Server.csproj" />
+  <Project Path="Mcp.Abstractions/Mcp.Abstractions.csproj" />
+  <Project Path="Mcp.Client.Console/Mcp.Client.Console.csproj" />
+  <Project Path="Mcp.Host/Mcp.Host.csproj" />
+  <Project Path="Shared.Contracts/Shared.Contracts.csproj" />
+  <Project Path="Story.Mcp.Server/Story.Mcp.Server.csproj" />
+</Solution>
